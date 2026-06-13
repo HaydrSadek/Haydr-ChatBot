@@ -1,0 +1,3 @@
+# HaydrBot Pro v2.0
+# No external dependencies required!
+# Built with pure Python 3.8+
